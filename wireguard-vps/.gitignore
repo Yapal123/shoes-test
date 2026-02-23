@@ -1,0 +1,4 @@
+configs/
+.env
+*.key
+vpn-credentials.txt
